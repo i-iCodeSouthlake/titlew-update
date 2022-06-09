@@ -1,5 +1,31 @@
 {
 	"name": "Event sheet 1",
-	"events": [],
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-click",
+					"objectClass": "Mouse",
+					"sid": 204290426039510,
+					"parameters": {
+						"mouse-button": "left",
+						"click-type": "clicked"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 451176751113573,
+					"parameters": {
+						"layout": "Layout 2"
+					}
+				}
+			],
+			"sid": 741176092981309
+		}
+	],
 	"sid": 283102067829420
 }
