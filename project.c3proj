@@ -27,7 +27,8 @@
 	"objectTypes": {
 		"items": [
 			"TiledBackground",
-			"Sprite2"
+			"Sprite2",
+			"Sprite"
 		],
 		"subfolders": []
 	},
