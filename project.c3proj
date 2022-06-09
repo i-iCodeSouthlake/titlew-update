@@ -8,14 +8,6 @@
 	"usedAddons": [
 		{
 			"type": "plugin",
-			"id": "Text",
-			"name": "Text",
-			"author": "Scirra",
-			"version": "r293.3",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
 			"id": "TiledBg",
 			"name": "Tiled Background",
 			"author": "Scirra",
@@ -34,7 +26,6 @@
 	"uniqueId": "a8fb0a7l2ub",
 	"objectTypes": {
 		"items": [
-			"Text",
 			"TiledBackground",
 			"Sprite2"
 		],
